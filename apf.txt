@@ -1,0 +1,5 @@
+alternative formula
+x = "word" * "word"
+y = int(x/2)
+print (f"2V[{y}+{y}]='word' ")
+print (f"{y}'wd'")
