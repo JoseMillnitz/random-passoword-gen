@@ -1,4 +1,4 @@
-
+#this was the first formula made, i don't think its good, but it worked to some extent, so i will just keep devving with this and the new one, maybe i will use simplegui
 import cmath
 import random
 
