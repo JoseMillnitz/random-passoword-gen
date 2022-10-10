@@ -1,4 +1,3 @@
-import numpy as np
 #input
 letters = input('say my name: ')
 
